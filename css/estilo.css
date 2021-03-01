@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    margin: auto;
+    width: 45%;
+    padding: 20px;
+}
+
+.meuinput {
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    width: 50%;
+}
+
+table {
+    border: 5px solid orange;
+    width: 100%;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    border-radius: 10px;
+}
+
+td, th{
+    border: 5px solid orange;
+}
